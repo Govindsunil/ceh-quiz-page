@@ -1,1 +1,2 @@
 # ceh-quiz-page
+Developed a comprehensive cybersecurity assessment application that provides an interactive platform for testing knowledge across various security domains including network security, penetration testing, and ethical hacking (Specially for ceh students ). The application features over 170 professionally curated questions with real-world scenarios, offering immediate feedback and detailed explanations to enhance learning outcomes. Technologies used React, TypeScript, Tailwind CSS
